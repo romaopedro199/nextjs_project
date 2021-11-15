@@ -31,5 +31,4 @@ Execute o seguinte comando para abrir a interface o Cypress:
 yarn test
 ```
 
-Na interface do Cypress, você encontrará os testes da landing page e da dashboard separados.
-(Observação: o projeto deve ser iniciado antes de executar os testes.)
+Na interface do Cypress, você encontrará os testes da landing page e da dashboard separados. (O projeto deve ser iniciado antes de executar os testes.)
