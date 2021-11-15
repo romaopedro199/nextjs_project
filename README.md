@@ -1,3 +1,5 @@
+# Next.js Project
+
 ## Sobre
 
 O projeto consiste em uma landing page e uma dashboard desenvolvidas com Next.js.
