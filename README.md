@@ -25,7 +25,7 @@ yarn dev
 
 ## Testes
 
-Execute o seguinte comando para abrir a interface o Cypress:
+Execute o seguinte comando para abrir a interface do Cypress:
 
 ```
 yarn test
